@@ -89,6 +89,6 @@ CREATE TABLE `sys_user` (
 -- ----------------------------
 -- Records of sys_user
 -- ----------------------------
-INSERT INTO `sys_user` VALUES ('1', 'admin', 'admin', 'wsc', '2123@qq.com', '120', 'mnlg', '2022-04-09 21:58:02');
-INSERT INTO `sys_user` VALUES ('3', 'sun', '123456', '孙悟空', '123', '175564156145', '打发', '2022-04-11 21:39:42');
-INSERT INTO `sys_user` VALUES ('113', 'wsc', null, 'admin', '2644545', '146465', '福建', '2022-04-20 13:21:31');
+INSERT INTO `sys_user` VALUES ('1', 'wjy', '520', 'wsc', '520@qq.com', '520520', '我心里', '2022-04-09 21:58:02');
+INSERT INTO `sys_user` VALUES ('3', 'wjy', '520', 'wjy', '520', '520520520', '我心里', '2022-04-11 21:39:42');
+INSERT INTO `sys_user` VALUES ('113', 'wsc', 520, 'admin', '2644545', '146465', '福建', '2022-04-20 13:21:31');
